@@ -1,7 +1,13 @@
 ---
-layout: default
+layout: null
 title: Agile Logbook
 ---
+<title>Agile Logbook | Christian Hakizimana</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<header><nav aria-label="Portfolio sections"><a href="index.html">Home</a><a class="cv" href="cv.html">My CV</a><a href="charter.html">Agile Team Charter</a><a href="user-stories.html">User Stories and Tasks</a><a href="product-backlog.html">Product Backlog</a><a href="sprint-backlog.html">Sprint Backlog</a><a href="logbook.html" aria-current="page">Agile Logbook</a></nav></header>
+
+<main markdown="1">
 
 # Agile Logbook
 
@@ -31,3 +37,5 @@ Write your reflection here.
 ---
 
 *© 2026 Christian Hakizimana · 219117675 · CPUT Diploma in ICT · PRP370S/371S/372S*
+
+</main>

@@ -27,7 +27,8 @@ title: Agile Team Charter
 
 ## Evidence
 
-The evidence for this section is the FundiShop Agile Team Charter. It identifies the team members, their assigned responsibilities, the project's purpose, team values, communication practices, working agreements, Definition of Done, risks and team sign-off. The charter provides a shared reference for how the team planned to collaborate and develop the FundiShop service marketplace.
+> The evidence for this section is the FundiShop Agile Team Charter. It identifies the team members, their assigned responsibilities, the project's purpose, team > values, communication practices, working agreements, Definition of Done, risks and team sign-off. The charter provides a shared reference for how the team
+> planned to collaborate and develop the FundiShop service marketplace.
 
 ![FundiShop Agile Team Charter showing the project title and team member details](images/fundishop-charter.png)
 
